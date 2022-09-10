@@ -1,12 +1,12 @@
-## project name
+## Project Name
 
 week-one-IP
 
-## author name
+## Author Name
 
 Reuben Kangethe Ngururu
 
-## description of project
+## Project description
 
 My web portfolio
 
@@ -16,16 +16,16 @@ My web portfolio
 - CSS
 - GIT & GITHUB
 
-## project setup instructions
+## Project Setup Instructions
 
 - git clone https://github.com/ngururu/week-one-IP.git
 - open the cloned code on vscode
 - run with live server
 
-## link to live site on GitHub Pages
+## Live Link
 
 https://ngururu.github.io/week-one-IP.git
 
-## copyright and license information
+## Copyright and License Information
 
 (c) 2022 Reuben Kangethe
