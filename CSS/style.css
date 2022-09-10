@@ -1,6 +1,6 @@
 body {
     background-color: darkslategray;
-    
+    background-image: url(../Images/texture.jpeg);    
 }
 .Portfolio{
     color: #f9004d;
@@ -19,14 +19,14 @@ span{
 }
 
 h1{
-    color: #f9004d;
+    color: cyan;
 }
 p {
     color: white;
 }
 
 h2 {
-    color: #f9004d;
+    color: cyan;
 }
 .skills{
     color: white;
