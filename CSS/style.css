@@ -1,7 +1,7 @@
 body {
-    background-image: url(../Images/texture.jpeg);
-    background-color: black;
+    background-color: darkslategray;
     width: 50%;
+    height: 100%
 }
 .Portfolio{
     color: #f9004d;
