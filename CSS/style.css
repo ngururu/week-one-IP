@@ -1,7 +1,26 @@
 body {
-    background-image: url(../Images/workplace.jpeg);
+    background-image: url(../Images/texture.jpeg);
+    background-color: black;
+    width: 50%;
 }
+.Portfolio{
+    color: #f9004d;
+    font-size: 35px;
+    letter-spacing: 1px;
+}
+span{
+    color: white;
+}
+.intro{
+    color: white;
+    }
 
+.projects{
+    color: azure;
+}
+h1{
+    color: cyan;
+}
 p {
     color: white;
 }

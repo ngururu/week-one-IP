@@ -24,7 +24,7 @@ My web portfolio
 
 ## Live Link
 
-https://ngururu.github.io/week-one-IP.git
+https://ngururu.github.io/week-one-IP
 
 ## Copyright and License Information
 
