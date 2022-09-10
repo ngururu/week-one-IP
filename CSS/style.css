@@ -1,6 +1,6 @@
 body {
-    background-color: darkslategray;
-    background-image: url(../Images/texture.jpeg);    
+    background-image: url(../Images/texture.jpeg); 
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .Portfolio{
     color: #f9004d;
@@ -40,5 +40,11 @@ img{
     width: 200px;
     float: left;
     margin: 20px;
+}
+.about{
+    border: 100px cyan;
+    padding: 6px;
+    margin: 5px;
+    background-color: rgb(3, 38, 39);
 }
 
