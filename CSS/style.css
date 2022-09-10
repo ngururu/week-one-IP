@@ -36,4 +36,9 @@ img{
     width: 400px;
     float: right;
 }
+.skills{
+    width: 200px;
+    float: left;
+    margin: 20px;
+}
 
