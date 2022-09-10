@@ -1,7 +1,6 @@
 body {
     background-color: darkslategray;
-    width: 50%;
-    height: 100%
+    
 }
 .Portfolio{
     color: #f9004d;
@@ -18,13 +17,22 @@ span{
 .projects{
     color: azure;
 }
+
 h1{
-    color: cyan;
+    color: #f9004d;
 }
 p {
     color: white;
 }
 
 h2 {
-    color: cyan;
+    color: #f9004d;
 }
+.skills{
+    color: white;
+}
+img{
+    height: 500px;
+    float: right;
+}
+
