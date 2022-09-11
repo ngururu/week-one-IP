@@ -33,7 +33,7 @@ h2 {
 }
 img{
     height: 500px;
-    width: 400px;
+    width: 500px;
     float: right;
 }
 .skills{
@@ -50,6 +50,6 @@ img{
     padding: 6px;
     margin: 5px;
     background-color: rgb(3, 38, 39);
-    width: 60%;
+    width: 55%;
 }
 
