@@ -40,6 +40,10 @@ img{
     width: 200px;
     float: left;
     margin: 20px;
+    border: 100px cyan;
+    padding: 6px;
+    margin: 5px;
+    background-color: rgb(3, 38, 39);
 }
 .about{
     border: 100px cyan;
